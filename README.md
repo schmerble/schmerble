@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
  
 # :dizzy_face: Heyyo :dizzy_face:
 > Reach me here on these doobly doos!  
-> <a href = "linkedin.com/in/ryan-ly-9a2ab71b7"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width = 25 /> </a> <a href = "https://www.instagram.com/merble_/"> <img src = "https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width = 25 /> </a>
+> <a href = "https://www.linkedin.com/in/ryan-ly-9a2ab71b7"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width = 25 /> </a> <a href = "https://www.instagram.com/merble_/"> <img src = "https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width = 25 /> </a>
 
 I'm Ryan Ly. I'm a CS student studying a UIC. I'm currently interested in software dev and full stack dev. I'm motivated to make functional and attractive UI's and projects utilizing user interaction.
 ## What I've been doing
