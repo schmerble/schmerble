@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 > Reach me here on these doobly doos!  
 > <a href = "https://www.linkedin.com/in/ryan-ly-9a2ab71b7"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width = 25 /> </a> <a href = "https://www.instagram.com/merble_/"> <img src = "https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width = 25 /> </a>
 
-I'm Ryan Ly. I'm a CS student studying a UIC. I'm currently interested in software dev and full stack dev. I'm motivated to make functional and attractive UI's and projects utilizing user interaction.
+I'm Ryan Ly. I'm a Computer Science student studying at UIC in my senior year. I'm currently interested in software dev and full stack dev. I'm motivated to make functional and attractive UI's and projects utilizing user interaction.
 ## What I've been doing
 
 ### Languages
@@ -23,7 +23,15 @@ I'm Ryan Ly. I'm a CS student studying a UIC. I'm currently interested in softwa
           
 
 ### Projects
-- **Merbot** :space_invader: (In progress)
+- **Vibify** (Beta)
+   > Single page application written in the MERN stack
+   > 
+   > Developed a restful backend integrating Mongo Atlas and Spotify API
+   >
+   > Allows users to have full control of Spotify's Reccomendation Engine
+   >
+   > Several features such as export features, user-generated-content, and seamless Oauth
+- **Merbot** :space_invader: (Depreciated: Working on a microservice re-design)
    > Discord bot using Javascript and <a href = "https://discord.js.org/#/"> Discord.JS </a>.
    > 
    > Uses MongoDB to supplement database needs. (currency and stats)
